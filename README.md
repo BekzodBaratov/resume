@@ -14,3 +14,6 @@
 - semantic-ui
 - antd
 - material-ui
+
+-------------------
+<img src="" alt="resume_Img" />
