@@ -16,4 +16,4 @@
 - material-ui
 
 -------------------
-<img src="" alt="resume_Img" />
+<img src="https://github.com/BekzodBaratov/resume/blob/main/My%20Resume%20(1).pdf" alt="resume_Img" />
